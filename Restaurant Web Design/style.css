@@ -175,7 +175,6 @@ html {
 
 .header__menus li a:hover::after {
     width: 100%;
-
 }
 
 /* END HEADER */
@@ -635,22 +634,5 @@ html {
     .footer_copyright {
         text-align: center;
     }
-
-    /* END FOOTER */
-
-    /* HEADER */
-
-    /* END HEADER */
-
-    /* SECTION HOME */
-
-
-    /* END SECTION HOME */
-
-
-
-
-
-
 
 }
